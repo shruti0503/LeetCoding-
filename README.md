@@ -10,3 +10,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
+# Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shruti0503/DP-Questions/tree/master/0050-powx-n) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shruti0503/DP-Questions/tree/master/0050-powx-n) |
