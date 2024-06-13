@@ -18,3 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shruti0503/DP-Questions/tree/master/0050-powx-n) |
+# String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/shruti0503/DP-Questions/tree/master/0008-string-to-integer-atoi) |
