@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 # Math
 |  |
 | ------- |
@@ -22,3 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shruti0503/DP-Questions/tree/master/0008-string-to-integer-atoi) |
+# Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
