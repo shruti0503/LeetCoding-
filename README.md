@@ -63,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shruti0503/DP-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
