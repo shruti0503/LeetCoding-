@@ -39,6 +39,7 @@ public:
                     q.push(adj);
                 }
                 mp[curr]->neighbors.push_back(mp[adj]);
+                //mp[curr] will be this newly created node  in line 38
             }
         }
 
