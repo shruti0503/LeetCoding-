@@ -1,59 +1,64 @@
 class Solution {
 public:
-// 2-> rotten
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size(); // row
-        int m=grid[0].size(); // col
+        int n=grid.size();
+        int m=grid[0].size();
+         queue<pair<pair<int,int>,int>>pq;
+        vector<vector<int>> vis(n,vector<int>(m,0));
 
-        // storing in row col pai
-        queue<pair<pair<int,int>,int>>pq;
+        int cntFresh=0;
+        int time=0;
 
-      vector<vector<int>> vis(n, vector<int>(m,0));
-      // if the cell has the rotten organges i mark as visited , we wioll not visit it after wards
-      int cntFresh=0;
-      for(int i=0;i<n;i++){
-          for(int j=0;j<m;j++){
-              if(grid[i][j]==2){
-                  vis[i][j]=2; 
-                  pq.push({{i, j}, 0}); 
-              } 
-              // count fresh oranges
-            if (grid[i][j] == 1) cntFresh++;
-          }
-      }
 
-      int time=0;
-      int delr[]={-1,0,+1,0};
-      int delc[]={0,1,0,-1};
-      int cnt=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2  ){
+                    pq.push({{i,j},0});
+                    vis[i][j]=1;
+                    
+                }
+                if(grid[i][j]==1){
+                    cntFresh++;
+                }
+            }
+        }
 
-      // bfs traversal
-      while(!pq.empty()){
-          int r=pq.front().first.first;
-          int c=pq.front().first.second;
-          int t=pq.front().second;
-          time=max(time,t);
-          pq.pop();
-    // cause there are 4 neighbours
-      for(int i=0;i<4;i++){
-          // neighbouring row and col
-          int nrow=r+delr[i];
-          int ncol=c+delc[i];
-          if(nrow>=0 and nrow<n and ncol>=0 and ncol<m and vis[nrow][ncol]==0 and grid[nrow][ncol]==1){
-              // push in queue with timer increased
-             pq.push({{nrow, ncol}, time + 1}); 
-            // mark as rotten
-            vis[nrow][ncol] = 2;
-            cnt++;
 
-          }
-      }
-      }
+        vector<pair<int,int>> directions={{0,1},{1,0},{0,-1},{-1,0}};
 
-// if all oranges are not rotten
-      if (cnt != cntFresh) return -1;
+        int cnt=0;
 
-      return time;
+        while(!pq.empty()){
+            int r=pq.front().first.first;
+            int c=pq.front().first.second;
+            int t=pq.front().second;
+
+            time=max(time,t);
+            pq.pop();
+
+            for(auto& dir:directions){
+                int rn=r+dir.first;
+                int cn=c+dir.second;
+                 
+                 if(rn>=0 and rn<n and cn>=0 and cn<m  and vis[rn][cn]==0 and grid[rn][cn]==1){
+                    cnt++;
+                    pq.push({{rn,cn},time+1});
+                    vis[rn][cn]=1;
+                 
+                 }
+
+            }
+        }
+         if (cnt != cntFresh) return -1;
+
+         return time;
+
+
         
     }
+
+
+
+        
+
 };
