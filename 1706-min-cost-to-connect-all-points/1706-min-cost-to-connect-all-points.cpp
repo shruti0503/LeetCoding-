@@ -1,3 +1,13 @@
+// Initialization: minDist keeps track of the minimum distance to add a node to the MST,
+// initialized to INT_MAX for all nodes except the starting node (0). inMST keeps track of which nodes are
+//  included in the MST.
+
+// Main Loop: In each iteration, the algorithm selects the node with the
+//  smallest edge cost not in the MST, adds it to the MST, 
+//  and then updates the minimum distances for its adjacent nodes.
+
+// Updating Edges: For each node added to the MST, update the cost to connect to each non-MST node.
+
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
@@ -24,7 +34,7 @@ public:
             inMST[currNode]=true;
             //update adj nodes of currnode
             for(int i=0;i<n;i++){
-          int cost = abs(points[currNode][0] - points[i][0]) + abs(points[currNode][1] - points[i][1]);
+            int cost = abs(points[currNode][0] - points[i][0]) + abs(points[currNode][1] - points[i][1]);
 
                 if(!inMST[i] and minDist[i]>cost){
                     minDist[i]=cost;
