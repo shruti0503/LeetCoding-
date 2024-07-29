@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Backtracking
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
