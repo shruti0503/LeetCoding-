@@ -9,7 +9,7 @@ public:
 
         int ans=cost[n]+min(solve(cost, n-1,dp), solve(cost, n-2,dp));
         dp[n]=ans;
-        return dp[n];
+        return ans;
      }
     int minCostClimbingStairs(vector<int>& cost) {
         int n=cost.size();
