@@ -22,6 +22,44 @@ public:
         return dp[i][j];
     }
 
+    string tab(string s) {
+        int n = s.length();
+        if (n == 0) return "";  // Edge case: empty string
+
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+        int start = 0;  // Starting index of the longest palindromic substring
+        int maxLength = 1;  // Length of the longest palindromic substring
+
+        // Every single character is a palindrome
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = true;
+        }
+
+        // Check for palindromes of length 2
+        for (int i = 0; i < n - 1; i++) {
+            if (s[i] == s[i + 1]) {
+                dp[i][i + 1] = true;
+                start = i;
+                maxLength = 2;
+            }
+        }
+
+        // Check for palindromes of length 3 and more
+        for (int len = 3; len <= n; len++) {  // len is the length of the substring
+            for (int i = 0; i <= n - len; i++) {
+                int j = i + len - 1;  // Ending index of the substring
+                if (s[i] == s[j] && dp[i + 1][j - 1]) {
+                    dp[i][j] = true;
+                    if (len > maxLength) {
+                        start = i;
+                        maxLength = len;
+                    }
+                }
+            }
+        }
+        return s.substr(start, maxLength);
+    }
+
     string longestPalindrome(string s) {
         int n = s.length();
         string ans = "";
@@ -47,6 +85,6 @@ public:
 
 
 
-         return ans;
+         return tab(s);
     }
 };
