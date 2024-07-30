@@ -28,6 +28,7 @@ public:
 
     int tab(string& s, int index, vector<int>& dp){
         int n=s.size();
+        if(n==0) return 0;
         dp[0]=1 ;// base case empty string
         if(s[0]!='0'){
             dp[1]=1;
@@ -39,7 +40,7 @@ public:
             if(s[i-1]!='0'){
                 dp[i]+=dp[i-1];
             }
-            if(dp[i-2]=='1' or (s[i-2]=='2' and s[i-1]<='6')){
+            if(s[i-2]=='1' or (s[i-2]=='2' and s[i-1]<='6')){
                 dp[i]+=dp[i-2];
             }
         }
@@ -48,10 +49,15 @@ public:
 
     }
 
+    // int spaceOpt(string s){
+
+    // }
+
     int numDecodings(string s) {
-        vector<int> dp(s.size()+1,-1);
+        vector<int> dp(s.size()+1,0);
        // return rec(s,0);
-        return memo(s,0,dp);
+      //  return memo(s,0,dp);
+      return tab(s, 0, dp);
         
     }
 };
