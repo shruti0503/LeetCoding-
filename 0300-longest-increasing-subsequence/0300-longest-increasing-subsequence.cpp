@@ -26,21 +26,39 @@ public:
 
         for (int ind = n - 1; ind >= 0; ind--) {
             for (int prev = ind - 1; prev >= -1; prev--) {
-                int notTake = dp[ind + 1][prev + 1];
+                int notTake = dp[ind + 1][prev + 1]; // -1 to 0
                 int take = 0;
                 if (prev == -1 || nums[ind] > nums[prev]) {
-                    take = 1 + dp[ind + 1][ind + 1];
+                    take = 1 + dp[ind + 1][ind + 1]; // prev=-1 ind=5
                 }
                 dp[ind][prev + 1] = max(take, notTake);
             }
         }
         return dp[0][-1 + 1];
     }
+    int spaceOpt(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> curr(n + 1, 0), next(n + 1, 0);
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int prev = ind - 1; prev >= -1; prev--) {
+                int notTake = next[prev + 1];
+                int take = 0;
+                if (prev == -1 || nums[ind] > nums[prev]) {
+                    take = 1 + next[ind + 1];
+                }
+                curr[prev + 1] = max(take, notTake);
+            }
+            next = curr;
+        }
+        return next[-1 + 1];
+    }
 
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         vector<vector<int>> dp(n, vector<int>(n + 1, -1));
         //return func(nums, 0, -1, n, dp);
-        return tab(nums);
+       // return tab(nums);
+       return  spaceOpt(nums);
     }
 };
