@@ -42,11 +42,35 @@ public:
     return dp[0][0]; // Result for the original problem, starting in the buying state.
 }
 
+  int spaceOpt(vector<int>& prices){
+    int n=prices.size();
+    vector<int>curr(2,0) , ahead(2,0);
+       for (int ind = n - 1; ind >= 0; --ind) {
+        for (int state = 0; state <= 1; ++state) {
+            if (state == 0) {
+                int buy = -prices[ind] + ahead[1];
+                int skip = ahead[0];
+                curr[0] = max(buy, skip);
+            } else {
+                int sell = prices[ind] + ahead[0];
+                int skip = ahead[1];
+                curr[1] = max(sell, skip);
+            }
+            ahead=curr;
+        }
+    }
+
+    return ahead[0]; 
+
+
+  }
+
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
         vector<vector<int>>dp(n+1, vector<int>(2,-1));
 
        // return func(0, prices, false,dp); // Start with flag=false (buying state)
-       return tab(prices);
+      // return tab(prices);
+      return spaceOpt(prices);
     }
 };
