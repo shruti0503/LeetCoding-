@@ -22,6 +22,35 @@ public:
     
     return dp[ind][sum+offset]=add+sub;
    }
+
+  int tab(vector<int>& nums, int target) {
+    int totalSum = 0;
+    for (int num : nums) {
+        totalSum += abs(num);
+    }
+    int offset = totalSum;
+
+    int n = nums.size();
+    vector<vector<int>> dp(n + 1, vector<int>(2 * totalSum + 1, 0));
+    
+    // Base case: There's one way to reach sum 0 with 0 elements.
+    dp[n][offset] = 1;
+
+    for (int ind = n - 1; ind >= 0; --ind) {
+        for (int sum = -totalSum; sum <= totalSum; ++sum) {
+            int currIndex = sum + offset;
+            if (currIndex - nums[ind] >= 0) {
+                dp[ind][currIndex] += dp[ind + 1][currIndex - nums[ind]];
+            }
+            if (currIndex + nums[ind] <= 2 * totalSum) {
+                dp[ind][currIndex] += dp[ind + 1][currIndex + nums[ind]];
+            }
+        }
+    }
+
+    return (target + offset >= 0 && target + offset <= 2 * totalSum) ? dp[0][target + offset] : 0;
+}
+
     int findTargetSumWays(vector<int>& nums, int target) {
        
         int totalSum=0;
@@ -31,7 +60,9 @@ public:
          int offset = totalSum;
 
         vector<vector<int>> dp(nums.size(), vector<int>(2 * totalSum + 1, -1));
-        return func(nums, 0, 0, target, dp, offset);
+
+        return tab(nums,target);
+       // return func(nums, 0, 0, target, dp, offset);
         //The totalSum is the sum of the absolute values of all elements in nums.
         //For example, if nums = [1, 2, 3], then totalSum = 1 + 2 + 3 = 6.
         
