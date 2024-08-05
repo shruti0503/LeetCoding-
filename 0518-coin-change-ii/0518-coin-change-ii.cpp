@@ -9,29 +9,49 @@ public:
             return 0;
         }
         if(dp[ind][amount]!=-1) return dp[ind][amount];
-
-       
-
-
-    //    for(int i=ind;i<coins.size();i++){
         // take 
          int take =func(amount-coins[ind], coins, ind, ans,dp);
 
          // not take
          int notTake=func(amount, coins, ind+1, ans,dp);
-    //    }
+         return dp[ind][amount]= take+notTake;
+   }
 
-       return dp[ind][amount]= take+notTake;
+   int tab(int money,vector<int>& coins){
+    int n=coins.size();
+     vector<vector<int>> dp(n+1, vector<int>(money+1, 0));
+      // Base case: If amount is 0, there's one way to make the amount (use no coins)
+       for (int i = 0; i <= n; ++i) {
+        dp[i][0] = 1;
+    }
 
+     for(int ind=n-1;ind>=0;ind--){
+        for(int amount=0;amount<=money;amount++){  
+        int take=0; // [amount-coins[ind]]= can result in negative index -> can give runtime error
+        if(amount>=coins[ind]){
+            
+             take = dp[ind][amount - coins[ind]];
+        } 
 
-    
+         int notTake=dp[ind+1][amount];
+          dp[ind][amount]=take+notTake;
+
+        }
+       
+     }
+
+    return dp[0][money];
+
+      
 
    }
+
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
         //If you have an amount of 5, you need to consider indices from 0 to 5, which totals 6 indices. Thus, the array needs to be of size amount + 1.
         vector<vector<int>> dp(n, vector<int>(amount+1, -1));
-        return func(amount, coins, 0, 0,dp);
+       // return func(amount, coins, 0, 0,dp);
+        return tab(amount, coins);
         
     }
 };
