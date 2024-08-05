@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shruti0503/DP-Questions/tree/master/0213-house-robber-ii) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shruti0503/DP-Questions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/shruti0503/DP-Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruti0503/DP-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
