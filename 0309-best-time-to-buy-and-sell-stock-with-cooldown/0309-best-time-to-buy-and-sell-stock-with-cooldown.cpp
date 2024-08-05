@@ -14,7 +14,7 @@ public:
         }
         else {
             // Sell or skip
-            // just slight modification here
+            // just slight modification here i+2
             int sell = prices[ind] + func(ind + 2, prices, false,dp);
             int skip = func(ind + 1, prices, true,dp);
             maxprofit = max(sell, skip);
