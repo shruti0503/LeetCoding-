@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shruti0503/DP-Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
 ## Database
