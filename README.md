@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
@@ -235,4 +237,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
