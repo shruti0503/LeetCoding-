@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shruti0503/DP-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 ## Dynamic Programming
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruti0503/DP-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/shruti0503/DP-Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
