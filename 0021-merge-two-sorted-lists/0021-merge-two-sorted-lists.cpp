@@ -11,49 +11,27 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        //if both the linked lists are null return null
-        if(list1==NULL) return list2;
-        if(list2==NULL) return list1;
+        ListNode* dummy = new ListNode();  // Dummy node to simplify the handling of the head of the merged list
+        ListNode* curr = dummy;  // Pointer to build the merged list
         
-        ListNode* i= list1;
-        ListNode* j=list2;
-        ListNode* dummy=i;
-        //now see which ones's first node is smaller
+        while (list1 != nullptr && list2 != nullptr) {
+            if (list1->val <= list2->val) {
+                curr->next = list1;  // Attach the smaller node to the merged list
+                list1 = list1->next;  // Move to the next node in list1
+            } else {
+                curr->next = list2;  // Attach the smaller node to the merged list
+                list2 = list2->next;  // Move to the next node in list2
+            }
+            curr = curr->next;  // Move the current pointer to the next node
+        }
         
-        if(list1->val>list2->val){
-            dummy=j; j=j->next;
-        } 
-        else{ i=i->next;}
-
-        ListNode* curr=dummy;
-
-
-        while(i && j){
-            
-            if(i->val>j->val){
-                curr->next=j;
-                j=j->next;
-                 
-
-            }
-            else {
-                
-                 curr->next=i;
-                 i=i->next;
-
-            }
-            curr=curr->next;
-           
+        // Attach the remaining part of the list that is not yet exhausted
+        if (list1 != nullptr) {
+            curr->next = list1;
+        } else {
+            curr->next = list2;
         }
-
-        //process the remaining
-
-        if(i){
-            curr->next=i;
-        }
-        else{
-            curr->next=j;
-        }
-        return dummy;
+        
+        return dummy->next;  // Return the merged list starting from the first node
     }
 };
