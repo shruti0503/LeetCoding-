@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti0503/DP-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
 |  |
 | ------- |
