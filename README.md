@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti0503/DP-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shruti0503/DP-Questions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/shruti0503/DP-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
