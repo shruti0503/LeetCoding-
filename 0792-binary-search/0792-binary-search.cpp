@@ -4,7 +4,7 @@ public:
          int s=0;
         int e=nums.size()-1;
         while(s<=e){
-            int mid=(s+e)/2;
+            int mid=s+(e-s)/2;
             if(nums[mid]==k){
                 return mid;
             }
