@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti0503/DP-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shruti0503/DP-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/shruti0503/DP-Questions/tree/master/0091-decode-ways) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/shruti0503/DP-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shruti0503/DP-Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
 ## Database
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti0503/DP-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
