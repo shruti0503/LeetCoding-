@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shruti0503/DP-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shruti0503/DP-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shruti0503/DP-Questions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/shruti0503/DP-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shruti0503/DP-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shruti0503/DP-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shruti0503/DP-Questions/tree/master/0051-n-queens) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shruti0503/DP-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shruti0503/DP-Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shruti0503/DP-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/shruti0503/DP-Questions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shruti0503/DP-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
