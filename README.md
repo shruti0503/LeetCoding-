@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0332-reconstruct-itinerary](https://github.com/shruti0503/DP-Questions/tree/master/0332-reconstruct-itinerary) |
+| [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/shruti0503/DP-Questions/tree/master/0332-reconstruct-itinerary) |
+| [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
