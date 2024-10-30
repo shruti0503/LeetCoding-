@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/shruti0503/DP-Questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shruti0503/DP-Questions/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Backtracking
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
+| [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
