@@ -44,6 +44,26 @@ public:
       
    }
 
+   int spaceOpt(vector<int>& cost){
+    int n = cost.size();
+    if (n == 0) return 0; // Edge case: no steps
+    if (n == 1) return cost[0]; // Edge case: only one step
+
+    int prev2 = cost[0]; // Cost to reach step 0
+    int prev1 = cost[1]; // Cost to reach step 1
+    int current;
+
+    // Start from step 2 to step n-1
+    for (int i = 2; i < n; i++) {
+        current = cost[i] + min(prev1, prev2); // Calculate current cost
+        prev2 = prev1; // Move prev1 to prev2
+        prev1 = current; // Update prev1 to current
+    }
+
+    // Minimum cost to reach the top can be from either the last step or second last step
+    return min(prev1, prev2);
+   }
+
    int minCostClimbingStairs(vector<int>& cost) {
        int n = cost.size(); // number of steps
 
@@ -52,6 +72,7 @@ public:
        // Start from step 0 or step 1, and take the minimum cost to reach the top
        //return min(solve(0, n, cost,dp), solve(1, n, cost,dp));
        //return tabStart(cost);
-       return tabEnd(cost);
+       //return tabEnd(cost);
+       return spaceOpt(cost);
    }
 };
