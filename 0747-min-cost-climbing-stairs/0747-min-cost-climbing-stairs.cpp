@@ -16,10 +16,22 @@ public:
         dp[iniStep]= min(oneStep, twoStep);
         return dp[iniStep];
    }
- // two approaches -> for tab 0 ,1 to n 
-//  int tabEnd(vector<int>& cost){
+ // two approaches -> for tab 0 ,1 to n  ; n to 0 ,1
+ int tabEnd(vector<int>& cost){
+    int n=cost.size();
+    vector<int>dp (n+1,INT_MAX);
+    dp[n]=0; // no cost for reaching the top beynd
+    for(int i=n-1;i>=0;i--){
+        dp[i]= dp[i+1]+cost[i];
+        if(i+2<=n){
+            dp[i]=min(dp[i], dp[i+2]+cost[i]);
+        }
+    }
+     return min(dp[0], dp[1]);
 
-//  }
+
+
+ }
    int tabStart(vector<int>& cost){
      int n = cost.size(); // number of steps
       vector<int>dp (n+1,INT_MAX);
@@ -39,6 +51,7 @@ public:
        
        // Start from step 0 or step 1, and take the minimum cost to reach the top
        //return min(solve(0, n, cost,dp), solve(1, n, cost,dp));
-       return tabStart(cost);
+       //return tabStart(cost);
+       return tabEnd(cost);
    }
 };
