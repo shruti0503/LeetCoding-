@@ -16,6 +16,21 @@ public:
         dp[iniStep]= min(oneStep, twoStep);
         return dp[iniStep];
    }
+ // two approaches -> for tab 0 ,1 to n 
+//  int tabEnd(vector<int>& cost){
+
+//  }
+   int tabStart(vector<int>& cost){
+     int n = cost.size(); // number of steps
+      vector<int>dp (n+1,INT_MAX);
+      dp[0]=cost[0];
+      dp[1]=cost[1];
+      for(int i=2;i<n;i++){
+        dp[i]=min(dp[i-1], dp[i-2])+cost[i];
+      }
+      return min(dp[n-1], dp[n-2]); // becaquse we have the option to either come from 0 or 1 in the strating so thats why
+      
+   }
 
    int minCostClimbingStairs(vector<int>& cost) {
        int n = cost.size(); // number of steps
@@ -23,6 +38,7 @@ public:
        vector<int>dp(n+1, -1);
        
        // Start from step 0 or step 1, and take the minimum cost to reach the top
-       return min(solve(0, n, cost,dp), solve(1, n, cost,dp));
+       //return min(solve(0, n, cost,dp), solve(1, n, cost,dp));
+       return tabStart(cost);
    }
 };
