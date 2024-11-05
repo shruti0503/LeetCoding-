@@ -13,10 +13,33 @@ public:
       return dp[ind]; 
 
   }
+
+ int tab(vector<int>& nums){
+    int n=nums.size();
+    if (n == 0) return 0;
+    vector<int>dp(n+1, 0);
+    dp[n]=0;
+    for(int i=n-1;i>=0;i--){
+        int take;
+        if(i+2<=n){
+              take=nums[i]+dp[i+2];
+        }
+        else{
+            take=nums[i];
+        }
+       
+        int notTake=dp[i+1];
+        dp[i]=max(take, notTake);
+    }
+
+    return dp[0];
+
+ }
    
     int rob(vector<int>& nums) {
         vector<int>dp(nums.size()+1,-1);
-        return func( 0,  nums,  dp);
+        //return func( 0,  nums,  dp);
+        return tab(nums);
 
         
     }
