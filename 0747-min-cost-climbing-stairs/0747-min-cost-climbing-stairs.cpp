@@ -1,44 +1,28 @@
 class Solution {
 public:
-     // TC: O(N) sc O(N)
-     int solve(vector<int>& cost, int n, vector<int>& dp){
-        if (n==0) return cost[0]; 
-        if(n==1) return cost[1];
+   int solve(int iniStep, int steps, vector<int>& cost, vector<int>& dp) {
+       // Base case: If we have reached the top or beyond, no cost is required.
+       if (iniStep >= steps) return 0;
 
-        if(dp[n]!=-1) return dp[n];
+       if(dp[iniStep]!=-1){
+         return dp[iniStep]; 
+       }
+       
+       // Recursively calculate the minimum cost of taking one or two steps
+       int oneStep = solve(iniStep + 1, steps, cost,dp) + cost[iniStep];
+       int twoStep = solve(iniStep + 2, steps, cost,dp) + cost[iniStep];
 
-        int ans=cost[n]+min(solve(cost, n-1,dp), solve(cost, n-2,dp));
-        dp[n]=ans;
-        return ans;
-     }
-     int tab(vector<int>& cost, int n){
-        vector<int>dp(n+1);
-        dp[0]=cost[0];
-        dp[1]=cost[1];
-        for(int i=2;i<n;i++){
-            dp[i]=cost[i] + min(dp[i-1],dp[ -2]);
-        }
-        return min(dp[n-1], dp[n-2]);
-     }
-      int spaceOpt(vector<int>& cost, int n){
-        
-        int prev2=cost[0];
-        int prev1=cost[1];
-        for(int i=2;i<n;i++){
-            int curr=cost[i]+min(prev1, prev2);
-           prev2=prev1;
-           prev1=curr;
-        }
-        return min(prev1, prev2);
-     }
-    int minCostClimbingStairs(vector<int>& cost) {
-        int n=cost.size();
-        vector<int> dp(n+1, -1);
-        int ans=min(solve(cost,n-1, dp), solve(cost, n-2, dp)); // one starting from 1st step , and other from 2nd 
-       // return ans;
-      // return tab(cost, n);
+       // Return the minimum cost between taking one or two steps
+        dp[iniStep]= min(oneStep, twoStep);
+        return dp[iniStep];
+   }
 
-      return spaceOpt(cost, n);
-        
-    }
+   int minCostClimbingStairs(vector<int>& cost) {
+       int n = cost.size(); // number of steps
+
+       vector<int>dp(n+1, -1);
+       
+       // Start from step 0 or step 1, and take the minimum cost to reach the top
+       return min(solve(0, n, cost,dp), solve(1, n, cost,dp));
+   }
 };
