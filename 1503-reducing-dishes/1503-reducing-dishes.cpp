@@ -36,12 +36,34 @@ public:
        
 
     }
+    int spaceOpt( vector<int>& sat){
+         int n=sat.size();
+       sort(sat.begin(), sat.end());
+        // vector<vector<int>>dp(n+1, vector<int>(n+1, 0)); // yhi ke yhi intialise kr do
+        vector<int>curr(n+1,0);
+        vector<int>next(n+1,0);
+
+
+        for(int ind=n-1;ind>=0;ind--){
+            for(int time=ind; time>=0;time--){
+                int include=(sat[ind]*(time+1))+next[time+1];
+                int exclude=next[time];
+                curr[time]=max(include, exclude);
+                
+            }
+            next=curr;
+        }
+
+        return next[0];
+
+    }
     int maxSatisfaction(vector<int>& satisfaction) {
         int n=satisfaction.size();
         sort(satisfaction.begin(), satisfaction.end());
         vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
         //return func(satisfaction, 1, 0 , dp);
-        return tab(satisfaction);
+        //return tab(satisfaction);
+        return spaceOpt(satisfaction);
         
     }
 };
