@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shruti0503/DP-Questions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
+| [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Backtracking
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
+| [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Memoization
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shruti0503/DP-Questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Sliding Window
 |  |
