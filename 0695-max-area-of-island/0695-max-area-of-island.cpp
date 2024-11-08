@@ -1,51 +1,34 @@
-
-
 class Solution {
 public:
-    int bfs(vector<vector<int>>& grid, int r, int c, vector<vector<bool>>& vis) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-
-        queue<pair<int, int>> pq;
-        pq.push({r, c});
-        vis[r][c] = true;
-        int ans = 1; // Start with 1 as we are including the starting cell
-
-        vector<pair<int, int>> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
-        while (!pq.empty()) {
-            auto [i, j] = pq.front();
-            pq.pop();
-
-            for (auto dir : directions) {
-                int ni = i + dir.first;
-                int nj = j + dir.second;
-
-                if (ni >= 0 && ni < rows && nj >= 0 && nj < cols && grid[ni][nj] == 1 && !vis[ni][nj]) {
-                    pq.push({ni, nj});
-                    vis[ni][nj] = true;
-                    ans++;
-                }
+    int maxAreaOfIsland(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                ans = max(ans, func(n, m, i, j, grid, vis));
             }
         }
         return ans;
     }
 
-    int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        int ans = 0; // Initialize to 0 to handle cases with no islands
-
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1 && !vis[i][j]) {
-                    ans = max(ans, bfs(grid, i, j, vis));
-                }
-            }
+    int func(int n, int m, int row, int col, vector<vector<int>>& grid, vector<vector<int>>& vis) {
+        if (row < 0 || row >= n || col < 0 || col >= m || vis[row][col] || grid[row][col] == 0) {
+            return 0;
         }
-
-        return ans;
+        vis[row][col] = 1;
+        int bottom = func(n, m, row + 1, col, grid, vis);
+        int top = func(n, m, row - 1, col, grid, vis);
+        int right = func(n, m, row, col + 1, grid, vis);
+        int left = func(n, m, row, col - 1, grid, vis);
+        return bottom + top + left + right + 1;
+        //   The 1 is added to the result because the current cell i
+        //  tself is a land cell, and it is part of the area of the island.
+        //   The base case of the recursion, 
+        //  when it returns 0, is for the cells that
+        //   are not part of the island, so they don't contribute to
+        //    the area count. However, when the cell is part of the island
+        //   (i.e., when it returns from the recursive calls), we add 1 to the count to include the current cell in the area.
     }
 };
