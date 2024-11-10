@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shruti0503/DP-Questions/tree/master/0207-course-schedule) |
@@ -360,12 +361,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 ## Bit Manipulation
