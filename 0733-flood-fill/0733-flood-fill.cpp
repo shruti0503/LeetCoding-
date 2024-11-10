@@ -1,31 +1,30 @@
 class Solution {
 public:
-
- void dfs(int row, int col, vector<vector<int>>& ans, vector<vector<int>>& image, int initialColor, int color, int n , int m) {
-    if((row<0 || row>=n || col <0 || col>=m)  ||  ans [row][col]!=initialColor) return ;
-
-    ans[row][col]=color;
-       dfs(row+1, col, ans, image, initialColor, color,n, m); 
-         dfs(row-1, col, ans, image, initialColor, color,n, m);
- dfs(row, col+1, ans, image, initialColor, color,n, m);
-    dfs(row, col-1, ans, image, initialColor, color,n, m); 
-    
- 
-    
-
-  }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        // change the colour of adj if same 
-        vector<vector<int>> ans = image;
-        int initialColor = image[sr][sc];
-        int n=image.size();
-        int m=image[0].size();
-       
-       // vector<vector<int>>
-         if (initialColor != color) { // chekcing if the inital cell is alreacy  the target color 
-            dfs(sr, sc, ans, image, initialColor, color, n, m);
+    void dfs(vector<vector<int>>& image, vector<vector<int>>& ans, int sr, int sc, int color, int oldColor) {
+        // Check if we're out of bounds or if the cell is already the color we want
+        if (sr < 0 || sr >= image.size() || sc < 0 || sc >= image[0].size() || ans[sr][sc] == color || image[sr][sc] != oldColor) {
+            return;
         }
-       return ans;
 
+        // Set the color
+        ans[sr][sc] = color;
+
+        // Move in all four directions
+        dfs(image, ans, sr + 1, sc, color, oldColor);
+        dfs(image, ans, sr - 1, sc, color, oldColor);
+        dfs(image, ans, sr, sc + 1, color, oldColor);
+        dfs(image, ans, sr, sc - 1, color, oldColor);
+        
+    }
+
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int oldColor = image[sr][sc];
+        // Only start DFS if the color is different
+        if (oldColor != color) {
+            vector<vector<int>> ans = image;
+            dfs(image, ans, sr, sc, color, oldColor);
+            return ans;
+        }
+        return image;
     }
 };
