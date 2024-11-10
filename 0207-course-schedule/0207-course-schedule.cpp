@@ -1,41 +1,41 @@
 class Solution {
 public:
-   bool checkCycle(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& inDfs) {
-     vis[node] = 1;
-     inDfs[node] = 1;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // [0,1] edge from 0 to 1 zero is depended on 1
+        vector<int>indeg(numCourses,0);
+        vector<vector<int>>adjList(numCourses);
+       
+        for(auto courses:prerequisites){
+            // [1,0] 1 to 0 
+            indeg[courses[0]]++;
+            adjList[courses[1]].push_back(courses[0]);
 
-     for (int neighbor : adj[node]) {
-        if (!vis[neighbor]) { // If not visited, explore the neighbor
-            if (checkCycle(neighbor, adj, vis, inDfs)) return true;
-        } else if (inDfs[neighbor]) { // If the neighbor is in the current DFS path, we found a cycle
-            return true;
         }
-     }
-     inDfs[node] = 0; // Backtrack and mark as not in DFS path
-     return false; 
-   }
-
-   bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> vis(numCourses, 0); // To keep track of visited nodes
-        vector<int> inDfs(numCourses, 0); // To keep track of nodes in the current DFS path
-
-        // Build the adjacency list
-        for (auto& task : prerequisites) {
-            int course = task[0];
-            int pre = task[1];
-            adj[pre].push_back(course); // pre is a prerequisite for course
-        }
-
-        // Check for cycles starting from every course
-        for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) { // If not yet visited, start DFS from this course
-                if (checkCycle(i, adj, vis, inDfs)) {
-                    return false; // Cycle detected, so we can't finish all courses
-                }
+        queue<int>pq;
+        for(int i=0;i<indeg.size();i++){
+            if(indeg[i]==0){
+                pq.push(i); // push the node
             }
         }
 
-        return true; // No cycles, all courses can be finished
+        // travser on adjn ones and
+        //vector<pair<int,int>>  del={{0,1},{1,0},{-1,0}, {0,-1}};
+        vector<int>topo;
+
+        while(!pq.empty()){
+            int node=pq.front();
+            pq.pop();
+            topo.push_back(node);
+            for(auto adj:adjList[node]){
+                indeg[adj]--;
+                if(indeg[adj]==0) pq.push(adj);
+            }
+
+        }
+
+        return topo.size()==numCourses ? true : false ;
+
+
+        
     }
 };
