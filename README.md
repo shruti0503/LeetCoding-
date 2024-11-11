@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/shruti0503/DP-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
 ## Database
 |  |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/shruti0503/DP-Questions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shruti0503/DP-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/shruti0503/DP-Questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shruti0503/DP-Questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
@@ -381,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/shruti0503/DP-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
