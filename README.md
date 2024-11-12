@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shruti0503/DP-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/shruti0503/DP-Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shruti0503/DP-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shruti0503/DP-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shruti0503/DP-Questions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
