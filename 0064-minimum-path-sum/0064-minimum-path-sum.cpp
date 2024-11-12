@@ -22,11 +22,35 @@ public:
       return dp[row][col];
 
    }
+
+   int tab(vector<vector<int>>& grid){
+      int n = grid.size();
+      int m = grid[0].size();
+      vector<vector<int>> dp(n, vector<int>(m, INT_MAX)); 
+      dp[n-1][m-1]=grid[n-1][m-1];
+
+      for (int row = n - 1; row >= 0; row--) {
+        for (int col = m - 1; col >= 0; col--) {
+            // Calculate right and down costs if within bounds
+            int right = (col + 1 < m) ? dp[row][col + 1] : INT_MAX;
+            int down = (row + 1 < n) ? dp[row + 1][col] : INT_MAX;
+
+            // Only update if it's not the destination cell
+            if (row != n - 1 || col != m - 1) {
+                dp[row][col] = grid[row][col] + min(right, down);
+            }
+        }
+    }
+
+      return dp[0][0];
+
+   }
     int minPathSum(vector<vector<int>>& grid) {
         int n = grid.size();
     int m = grid[0].size();
     vector<vector<int>> dp(n, vector<int>(m, -1)); 
-    return func(grid, 0, 0, n, m, dp);
+    //return func(grid, 0, 0, n, m, dp);
+    return tab(grid);
         
     }
 };
