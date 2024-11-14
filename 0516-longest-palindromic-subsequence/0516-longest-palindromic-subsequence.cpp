@@ -49,25 +49,20 @@ public:
          int n = s.size();
         vector<int> prev(n, 0), curr(n, 0);
 
-        // Initialize for base case where each single character is a palindrome of length 1
-        for (int i = 0; i < n; i++) {
-            prev[i] = 1;
-        }
-
-        // Build from smaller substrings to larger ones
-        for (int i = n - 2; i >= 0; i--) {            // Start from second last character downwards
-            curr[i] = 1;                               // Base case for a single character substring
-            for (int j = i + 1; j < n; j++) {          // j goes from i+1 to end
+        // Loop from end of the string towards the beginning to fill up the DP table
+        for (int i = n - 1; i >= 0; i--) {
+            curr[i] = 1; // Base case: a single character is a palindrome of length 1
+            for (int j = i + 1; j < n; j++) {
                 if (s[i] == s[j]) {
                     curr[j] = prev[j - 1] + 2;
                 } else {
                     curr[j] = max(prev[j], curr[j - 1]);
                 }
             }
-            prev = curr;  // Move current row to previous for the next iteration
+            prev = curr; // Move current row to previous for the next outer iteration
         }
 
-        // Final result is for the full string, stored in prev[n-1]
+        // The result for the entire string is now in prev[n-1]
         return prev[n - 1];
 
     }
