@@ -47,7 +47,7 @@ public:
 
      int spaceOpt(string s){
          int n = s.size();
-        vector<int> prev(n, 0), curr(n, 0);
+        vector<int> prev(n, 1), curr(n, 1);
 
         // Loop from end of the string towards the beginning to fill up the DP table
         for (int i = n - 1; i >= 0; i--) {
