@@ -5,15 +5,23 @@ public:
         int s = 0;
         int e = n - 1;
         int mid = s + (e - s) / 2;
+        cout<<"mid is"<<mid<< endl<<endl;
 
         while (s < e) {
             if (arr[mid] >= arr[0]) {
+                 cout<<"arr[mid] >= arr[0]: arr[mid]"<<arr[mid]<<endl;
                 s = mid + 1;
+                cout<<"now s is:"<<s << endl;
             } else {
+                 cout<<"arr[mid] < arr[0]: arr[mid]"<<arr[mid]<<endl;
                 e = mid;
+                 cout<<"now e is:"<<e<< endl;
             }
             mid = s + (e - s) / 2;
+            cout<<"now mid is:"<<mid<< endl<<endl;
         }
+       cout<<"pivot index is "<<s<<endl;
+       cout<<"pivot  is "<<arr[s]<<endl;
 
         return s; // Return the index of the pivot
     }
