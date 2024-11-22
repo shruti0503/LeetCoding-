@@ -1,24 +1,31 @@
 class MyCalendar {
-private:
-    vector<pair<int, int>> bookings;
-
 public:
+   map<int, int>bookings;
     MyCalendar() {
+        
     }
-
- //
- //For each book call, you iterate through the list of bookings to check 
- //for overlaps.
- //  If there are  m callsto the book , the worst case time complexity is O(m2).
- 
+    
     bool book(int start, int end) {
-        for (const pair<int, int>& event : bookings) {
-            if (start < event.second && end > event.first) {
-                return false; // Overlapping event, cannot book.
+        auto next= bookings.lower_bound(start);
+        if(next!=bookings.end() and next->first<end){
+            return false;
+        }
+
+        if(next!=bookings.begin()){
+            auto prev= std::prev(next);
+            if(prev->second>start){
+                return false;
             }
         }
 
-        bookings.push_back({start, end});
-        return true; // Successfully booked.
+        bookings[start]=end;
+        return true;
+        
     }
 };
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar* obj = new MyCalendar();
+ * bool param_1 = obj->book(startTime,endTime);
+ */
