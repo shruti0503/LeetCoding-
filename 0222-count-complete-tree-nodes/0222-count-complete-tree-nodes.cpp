@@ -11,18 +11,34 @@
  */
 class Solution {
 public:
-    void inOrderTrav(TreeNode * curr, int& count) {
-  if (curr == NULL)
-    return;
-
-  count++;
-  inOrderTrav(curr -> left, count);
-  inOrderTrav(curr -> right, count);
-}
     int countNodes(TreeNode* root) {
-         int cnt=0;
-        inOrderTrav(root,cnt);
-        return cnt;
+        if(root==NULL) return 0;
+        int lh=findHeightLeft(root);
+        int rh=findHeightRight(root);
+
+        if(lh==rh) return (1<<lh)-1;
+
+        return 1+countNodes(root->left)+countNodes(root->right);
+
+       
         
+    }
+
+    int findHeightLeft(TreeNode* node){
+        int height=0;
+        while(node){
+            height++;
+            node=node->left;
+        }
+        return height;
+    }
+    int findHeightRight(TreeNode* node){
+        int height=0;
+        while(node){
+            height++;
+            node=node->right;
+        }
+
+        return height;
     }
 };
