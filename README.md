@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
+| [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
+| [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
+| [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2384-root-equals-sum-of-children](https://github.com/shruti0503/DP-Questions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
