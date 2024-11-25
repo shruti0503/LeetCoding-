@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
+| [2439-longest-cycle-in-a-graph](https://github.com/shruti0503/DP-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Array
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
+| [2439-longest-cycle-in-a-graph](https://github.com/shruti0503/DP-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shruti0503/DP-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shruti0503/DP-Questions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
+| [2439-longest-cycle-in-a-graph](https://github.com/shruti0503/DP-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Combinatorics
 |  |
 | ------- |
