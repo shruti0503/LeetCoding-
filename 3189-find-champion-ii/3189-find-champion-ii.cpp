@@ -11,7 +11,7 @@ public:
             cout<<edge<<endl;
         }
         
-        // Find the node(s) with indegree 0
+        
         int champion = -1;
         
         for (int i = 0; i < n; i++) {
@@ -26,19 +26,12 @@ public:
             }
         }
         
-        // If no node with indegree 0, there is no champion
+       
         if (champion == -1) {
             return -1;
         }
         
-        // Check if the champion has any outgoing edges
-        // for (auto& edge : edges) {
-        //     if (edge[0] == champion) {
-        //         return -1;  // The champion has an outgoing edge, so it's not unique
-        //     }
-        // }
         
-        // If the champion has no outgoing edges, it's the unique champion
         return champion;
     }
 };
