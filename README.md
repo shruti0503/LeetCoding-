@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shruti0503/DP-Questions/tree/master/2439-longest-cycle-in-a-graph) |
+| [3189-find-champion-ii](https://github.com/shruti0503/DP-Questions/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
