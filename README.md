@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shruti0503/DP-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shruti0503/DP-Questions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shruti0503/DP-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
