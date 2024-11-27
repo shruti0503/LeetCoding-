@@ -16,9 +16,9 @@ public:
             return dp[ind][sum];
         }
        
-        bool  take = func(nums, ind + 1, sum - nums[ind], dp);  // Include current element
+        bool  take = func(nums, ind + 1, sum - nums[ind], dp);  
         
-        bool notake = func(nums, ind + 1, sum, dp);  // Updated ind and sum
+        bool notake = func(nums, ind + 1, sum, dp);  
 
         return dp[ind][sum] = take || notake;
     }
@@ -93,13 +93,10 @@ public:
     bool canPartition(vector<int>& nums) {
         int sum = accumulate(nums.begin(), nums.end(), 0);
         if (sum % 2 != 0) {
-            return false;  // If sum is odd, partition is not possible
+            return false;
         }
 
-        vector<vector<int>>dp (nums.size(), vector<int>(sum+1, -1));
-        // Base case: sum of 0 is possible
-
-       // return func(nums, 0, sum / 2, dp);
+       vector<vector<int>>dp (nums.size(), vector<int>(sum+1, -1));
        return spaceopt(nums);
     }
 };
