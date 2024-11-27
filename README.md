@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/shruti0503/DP-Questions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/shruti0503/DP-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shruti0503/DP-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/shruti0503/DP-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shruti0503/DP-Questions/tree/master/0518-coin-change-ii) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/shruti0503/DP-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shruti0503/DP-Questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Divide and Conquer
 |  |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Sliding Window
