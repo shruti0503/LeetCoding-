@@ -32,23 +32,49 @@ public:
     //The spaceOpt function should start the loop from index 1 rather than 2 because we need to consider the money from the second house (index 1) onwards.
     //The initial values of prev1 and prev2 represent the state before the loop starts (i.e., prev1 as the amount robbed from 0 houses and prev2 as the amount robbed from the first house).
 
+    // int spaceOpt(vector<int>& nums){
+    //      int n = nums.size();
+    //     if (n == 0) return 0;
+    //     if (n == 1) return nums[0];
+
+    //     int prev1=0; // not taking first one -> so that we can take second
+    //     int prev2=nums[0]; // taking first one
+
+    //     for(int i=1;i<n;i++){
+    //         int currMax=max(prev1+nums[i],prev2); 
+    //         prev1=prev2;
+    //         prev2=currMax;
+    //     }
+
+    //     return  prev2;
+
+    // }
     int spaceOpt(vector<int>& nums){
-         int n = nums.size();
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
-
-        int prev1=0; // not taking first one -> so that we can take second
-        int prev2=nums[0]; // taking first one
-
-        for(int i=1;i<n;i++){
-            int currMax=max(prev1+nums[i],prev2); 
-            prev1=prev2;
-            prev2=currMax;
+    int n=nums.size();
+    if (n == 0) return 0;
+    //vector<int>dp(n+1, 0);
+    //dp[n]=0;
+    int prev1=0;
+    int prev2=0;
+    int current;
+    for(int i=n-1;i>=0;i--){
+        int take;
+        if(i+2<=n){
+              take=nums[i]+prev2;
         }
-
-        return  prev2;
-
+        else{
+            take=nums[i];
+        }
+       
+        int notTake=prev1;
+        current=max(take, notTake);
+        prev2=prev1;
+        prev1=current;
     }
+
+    return prev1;
+
+ }
 
     int rob(vector<int>& nums) {
         int n = nums.size();
