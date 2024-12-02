@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Design
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2439-longest-cycle-in-a-graph](https://github.com/shruti0503/DP-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Array
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/shruti0503/DP-Questions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
@@ -447,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2384-root-equals-sum-of-children](https://github.com/shruti0503/DP-Questions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
@@ -458,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/shruti0503/DP-Questions/tree/master/2384-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
