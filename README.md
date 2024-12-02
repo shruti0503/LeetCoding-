@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0332-reconstruct-itinerary](https://github.com/shruti0503/DP-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/shruti0503/DP-Questions/tree/master/2384-root-equals-sum-of-children) |
