@@ -1,35 +1,31 @@
-// BRUTE FORCE APPRoACH
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int findHeight(TreeNode* root) {
-        if (!root) {
-            return 0;
-        }
-        int leftHeight = findHeight(root->left);
-        int rightHeight = findHeight(root->right);
-        return 1 + max(leftHeight, rightHeight);
-    }
-    
-    int findDiameter(TreeNode* root, int& maxDiameter) {
-        if (!root) {
-            return 0;
-        }
-        
-        int leftHeight = findHeight(root->left);
-        int rightHeight = findHeight(root->right);
-        int currentDiameter = leftHeight + rightHeight;
-        
-        maxDiameter = max(maxDiameter, currentDiameter);
-        
-        int leftDiameter = findDiameter(root->left, maxDiameter);
-        int rightDiameter = findDiameter(root->right, maxDiameter);
-        
-        return max(leftDiameter, rightDiameter) + 1;
-    }
-    
     int diameterOfBinaryTree(TreeNode* root) {
-        int maxDiameter = 0;
-        findDiameter(root, maxDiameter);
-        return maxDiameter;
+        int diameter=0;
+      
+            height(root,diameter);
+        return diameter;
+        
+    }
+    int height(TreeNode* root , int &diameter){
+        if(!root){
+            
+            return 0;
+        }
+        int lh=height(root->left,diameter);
+        int rh=height(root->right,diameter);
+        diameter=max(diameter,lh+rh);
+        return 1+max(lh,rh);
     }
 };
