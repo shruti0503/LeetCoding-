@@ -45,12 +45,39 @@ public:
     return dp[n][m];
 
   }
+
+  int spaceOpt(string s1, string s2){
+    int n=s1.size();
+    int m=s2.size();
+    int ind1=0;
+    int ind2=0;
+   vector<int>prev(m+1,0);
+   vector<int>curr(m+1,0);
+    
+
+    for(int ind1=1;ind1<=n;ind1++){
+        for(int ind2=1;ind2<=m;ind2++){
+            // s1[ind1-1] and s2[ind2-1] because the dp table is 1-indexed, but the strings are 0-indexed.
+            if(s1[ind1-1]==s2[ind2-1]){
+                curr[ind2]=1+prev[ind2-1];
+            }
+            else{
+                curr[ind2]=max(prev[ind2], curr[ind2-1]);
+            }
+        }
+        prev=curr;
+    }
+
+    return prev[m];
+
+  }
     int longestCommonSubsequence(string text1, string text2) {
         int n=text1.size();
         int m=text2.size();
         vector<vector<int>> dp(n, vector<int>(m,-1));
-        return tab(text1, text2);
+       // return tab(text1, text2);
         //return func(0,0,text1, text2, dp);
+        return spaceOpt(text1, text2);
 
 
         
