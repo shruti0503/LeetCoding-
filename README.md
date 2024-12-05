@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shruti0503/DP-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shruti0503/DP-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shruti0503/DP-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Recursion
 |  |
@@ -523,4 +525,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
