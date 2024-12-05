@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shruti0503/DP-Questions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shruti0503/DP-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shruti0503/DP-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/shruti0503/DP-Questions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/shruti0503/DP-Questions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
@@ -526,4 +529,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
