@@ -2,7 +2,7 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
 
-      map<char, int> charCount;  // Rename the map to avoid variable name conflict
+      unordered_map<char, int> charCount;  
         int left = 0;             // Left pointer
         int maxCount = 0;         // To keep track of the maximum character count
         int result = 0;           // To store the maximum length of substring
