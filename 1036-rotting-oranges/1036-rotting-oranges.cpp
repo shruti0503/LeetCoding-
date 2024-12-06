@@ -1,45 +1,48 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
+        int fresh=0;
         int n=grid.size();
         int m=grid[0].size();
-        int cnt=0;
-      queue<pair<pair<int, int>, int>> pq; 
-         vector<vector<int>> vis(n, vector<int>(m, 0));
-
-        // push rot ones in queue
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<m;j++){
+        int time=0;
+       queue<pair<pair<int, int>, int>> pq;
+        vector<vector<int>> vis(n, vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m ;j++){
                 if(grid[i][j]==2){
-                    pq.push({{i,j}, 0});
+                    pq.push({{i,j},0});
+                    vis[i][j]=2;
                 }
                 else if(grid[i][j]==1){
-                   cnt++;
+                    fresh++;
                 }
             }
         }
-        int time=0;
-        vector<pair<int,int>> del={{-1,0}, {0,1}, {1,0},{0,-1}};
 
+        vector<pair<int,int>> del={{-1,0}, {0,1}, {1,0}, {0,-1}};
         while(!pq.empty()){
-             auto [position, currTime]=pq.front();
-             int row=position.first;
-             int col=position.second;
-             pq.pop();
-             time= max(time, currTime);
-             for(auto [dRow, dCol]:del){
+            auto [pos, currTime]=pq.front();
+            int row=pos.first;
+            int col=pos.second;
+            pq.pop();
+
+            time=max(time, currTime);
+            for(auto [dRow, dCol]:del){
                 int nRow=row+dRow;
-                int nCol=row+ dCol;
+                int nCol=col+dCol;
 
-                if (nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && grid[nRow][nCol] == 1 && vis[nRow][nCol] != 2) {
-                    pq.push({{nRow, nCol}, currTime + 1});
-                    vis[nRow, nCol]=2;
-                    cnt--;
+                if(nRow>=0 and nRow<n and nCol>=0 and nCol<m and grid[nRow][nCol]==1
+                and  vis[nRow][nCol]!=2){
+                    pq.push({{nRow, nCol}, currTime+1});
+                    vis[nRow][nCol]=2;
+                    fresh--;
                 }
-             }
-        })
+            }
+        }
 
-        return cnt == 0 ? time : -1;
+        return fresh==0 ? time : -1;
+
+
         
     }
 };
