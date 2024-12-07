@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shruti0503/DP-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shruti0503/DP-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Eulerian Circuit
 |  |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shruti0503/DP-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Memoization
 |  |
