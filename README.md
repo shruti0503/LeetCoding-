@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shruti0503/DP-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shruti0503/DP-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/shruti0503/DP-Questions/tree/master/0733-flood-fill) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/shruti0503/DP-Questions/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/shruti0503/DP-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shruti0503/DP-Questions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/shruti0503/DP-Questions/tree/master/0787-sliding-puzzle) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shruti0503/DP-Questions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/shruti0503/DP-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shruti0503/DP-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shruti0503/DP-Questions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shruti0503/DP-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
