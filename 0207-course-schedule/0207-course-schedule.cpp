@@ -6,7 +6,6 @@ public:
         vector<vector<int>>adjList(numCourses);
        
         for(auto courses:prerequisites){
-            // [1,0] 1 to 0 
             indeg[courses[0]]++;
             adjList[courses[1]].push_back(courses[0]);
 
@@ -32,6 +31,10 @@ public:
             }
 
         }
+        for (int i = 0; i < topo.size(); i++) {
+           cout << topo[i] << " ";
+        }
+
 
         return topo.size()==numCourses ? true : false ;
 
