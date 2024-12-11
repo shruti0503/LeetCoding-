@@ -36,6 +36,7 @@ public:
         int n = accounts.size();
         DisjointSet ds(n);
         unordered_map<string, int> mapMailNode;
+        // id , node (index)
 
         // Map each email to its account using union-find
         for (int i = 0; i < n; i++) {
@@ -50,12 +51,13 @@ public:
         }
 
         // Group emails by their representative
-        vector<vector<string>> mergedMail(n);
+         vector<vector<string>> mergedMail(n);
         for (auto it : mapMailNode) {
             string mail = it.first;
             int node = ds.findUPar(it.second);
             mergedMail[node].push_back(mail);
-            
+            cout<<"mail "<< mail<< " , parent "<< node<<endl;
+
         }
 
         // Construct final result
@@ -72,8 +74,8 @@ public:
             }
         }
 
-        // Sort the final answer lexicographically
-        sort(ans.begin(), ans.end());
+    
+        //sort(ans.begin(), ans.end());
         return ans;
     }
 };
