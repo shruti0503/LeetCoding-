@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shruti0503/DP-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shruti0503/DP-Questions/tree/master/0907-koko-eating-bananas) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shruti0503/DP-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shruti0503/DP-Questions/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
+| [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/shruti0503/DP-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shruti0503/DP-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shruti0503/DP-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
