@@ -1,44 +1,42 @@
+
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-
-        //1.creatiung adj c list 
-        vector<vector<int>>adj(numCourses);
         vector<int>indeg(numCourses,0);
-        for(auto course:prerequisites){
-            adj[course[1]].push_back(course[0]);
-            indeg[course[0]]++;
+        vector<vector<int>>adjList(numCourses);
+        for(auto courses:prerequisites){
+            indeg[courses[0]]++;
+            adjList[courses[1]].push_back(courses[0]);
         }
-        
         queue<int>pq;
-        vector<int>topo;
-
-        //3. while loop push in q
         for(int i=0;i<indeg.size();i++){
-            if(indeg[i]==0){
-                pq.push(i);
-            }
+           if(indeg[i]==0){
+             pq.push(i); // push the node
+           }
         }
-
+        //vector<pair<int,int>>  del={{0,1},{1,0},{-1,0}, {0,-1}};
+        vector<int>topo;
         while(!pq.empty()){
-            int course=pq.front();
+            int node=pq.front();
             pq.pop();
-            topo.push_back(course);
-            for(auto adjNode:adj[course]){
-                indeg[adjNode]--;
-                if(indeg[adjNode]==0){
-                    pq.push(adjNode);
+            topo.push_back(node);
+            for(auto adj:adjList[node]){
+                indeg[adj]--;
+                if(indeg[adj]==0) {
+                    pq.push(adj);
                 }
             }
-
-
         }
-
-         if (topo.size() == numCourses) {
+       if (topo.size() == numCourses) {
             return topo;
         }
-         return {};
-        
+        return {};
+
+      
+
+       
+
 
     }
 };
+
