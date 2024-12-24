@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/shruti0503/DP-Questions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/shruti0503/DP-Questions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/shruti0503/DP-Questions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0283-move-zeroes) |
