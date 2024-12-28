@@ -5,11 +5,16 @@ public:
     for(int i=0;i<piles.size();i++){
         sum+=(long long) ceil((double)piles[i]/mid);
     }
+    cout<<"sum for "<<mid<< " is "<<sum<<endl;
     if(sum<=h){
         ans=mid;
+        cout<<" coco can  mid is (sum<=h) "<< mid<<endl;
+        cout<<"coco can with sum "<< sum<<endl;
         return true;
     }
     else{
+        cout<<"coco cannot with mid"<<mid<<endl;
+        cout<<"coco cannot with sum"<<sum<<endl;
         return false;
     }
 
