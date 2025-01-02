@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shruti0503/DP-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shruti0503/DP-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shruti0503/DP-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/shruti0503/DP-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shruti0503/DP-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Backtracking
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shruti0503/DP-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
