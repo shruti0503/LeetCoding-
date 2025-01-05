@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/shruti0503/DP-Questions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shruti0503/DP-Questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shruti0503/DP-Questions/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/shruti0503/DP-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/shruti0503/DP-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shruti0503/DP-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/shruti0503/DP-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
