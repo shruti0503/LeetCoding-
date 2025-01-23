@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shruti0503/DP-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/shruti0503/DP-Questions/tree/master/1558-course-schedule-iv) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/shruti0503/DP-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
 | [1325-path-with-maximum-probability](https://github.com/shruti0503/DP-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/shruti0503/DP-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/shruti0503/DP-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shruti0503/DP-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/shruti0503/DP-Questions/tree/master/1558-course-schedule-iv) |
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shruti0503/DP-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/shruti0503/DP-Questions/tree/master/1753-path-with-minimum-effort) |
@@ -612,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/shruti0503/DP-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
