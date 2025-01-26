@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/shruti0503/DP-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shruti0503/DP-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shruti0503/DP-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
