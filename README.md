@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shruti0503/DP-Questions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/shruti0503/DP-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/shruti0503/DP-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shruti0503/DP-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shruti0503/DP-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/shruti0503/DP-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shruti0503/DP-Questions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/shruti0503/DP-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shruti0503/DP-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
 | ------- |
