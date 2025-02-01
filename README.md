@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shruti0503/DP-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shruti0503/DP-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shruti0503/DP-Questions/tree/master/1646-kth-missing-positive-number) |
