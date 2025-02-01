@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shruti0503/DP-Questions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shruti0503/DP-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/shruti0503/DP-Questions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/shruti0503/DP-Questions/tree/master/0228-summary-ranges) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shruti0503/DP-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/shruti0503/DP-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shruti0503/DP-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shruti0503/DP-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shruti0503/DP-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shruti0503/DP-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shruti0503/DP-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shruti0503/DP-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shruti0503/DP-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruti0503/DP-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
@@ -644,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shruti0503/DP-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Topological Sort
 |  |
