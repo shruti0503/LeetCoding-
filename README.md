@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/shruti0503/DP-Questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shruti0503/DP-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shruti0503/DP-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/shruti0503/DP-Questions/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/shruti0503/DP-Questions/tree/master/0605-can-place-flowers) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Divide and Conquer
 |  |
