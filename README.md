@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/shruti0503/DP-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/shruti0503/DP-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shruti0503/DP-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
 | [2358-number-of-ways-to-split-array](https://github.com/shruti0503/DP-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
