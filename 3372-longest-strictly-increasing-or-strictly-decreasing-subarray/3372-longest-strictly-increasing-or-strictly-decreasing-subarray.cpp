@@ -1,7 +1,10 @@
 class Solution {
 public:
     int longestMonotonicSubarray(vector<int>& nums) {
+        // test cases
         // 1 4 3 3 2
+        // 321
+        //1971
         int i=0;
         int j=1;
         int n=nums.size();
@@ -31,7 +34,7 @@ public:
              }
             i++;
             j++;
-            //ans=ma
+            
             
         }
         return len;
