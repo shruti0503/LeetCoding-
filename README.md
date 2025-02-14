@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shruti0503/DP-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
 ## Database
 |  |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/shruti0503/DP-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shruti0503/DP-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -682,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shruti0503/DP-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/shruti0503/DP-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shruti0503/DP-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/shruti0503/DP-Questions/tree/master/2001-jump-game-vii) |
@@ -695,4 +699,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
