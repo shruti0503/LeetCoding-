@@ -4,28 +4,22 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    // Store both numbers and their original indices
-    let numWithIndex = nums.map((num, index) => [num, index]); 
-    
-    // Sort based on the number values (not indices)
-    numWithIndex.sort((a, b) => a[0] - b[0]);
-    
-    let i = 0;
-    let j = numWithIndex.length - 1;
-    
-    while (i < j) {
-        let sum = numWithIndex[i][0] + numWithIndex[j][0];
-        
-        if (sum === target) {
-            // Return the original indices of the two numbers
-            return [numWithIndex[i][1], numWithIndex[j][1]];
-        } else if (sum < target) {
-            i++;
-        } else {
-            j--;
+
+    const seen={}; // empty object to store previsuly seen numbers and their indices 
+    let result =[]; // to store indices of two numbers that sum up to the target 
+
+    for(let i=0;i<nums.length;i++){ // iterates through each number in the nums array
+        const comp =target-nums[i]; // calculates the comp of the current number that would make up the target sum
+        if(seen.hasOwnProperty(comp)){ //checking is the comp has already been seen in the 'seen' Object
+            result=[seen[comp],i]; // If the complement is found, stores its index and the current index in the result array.
+            return result; 
         }
+
+        seen[nums[i]]=i;
     }
+    console.log(result)
+
+    return result;
+
     
-    // If no solution is found
-    return [];
 };
