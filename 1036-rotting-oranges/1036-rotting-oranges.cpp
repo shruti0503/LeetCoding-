@@ -1,3 +1,6 @@
+// fresh ko count karo , rot ko queue mai daalo
+// end mai check karo fresh ka count agr zero hai toh time ko returhn kr do
+
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
