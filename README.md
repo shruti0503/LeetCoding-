@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shruti0503/DP-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/shruti0503/DP-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shruti0503/DP-Questions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/shruti0503/DP-Questions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/shruti0503/DP-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shruti0503/DP-Questions/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/shruti0503/DP-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/shruti0503/DP-Questions/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/shruti0503/DP-Questions/tree/master/1073-number-of-enclaves) |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shruti0503/DP-Questions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/shruti0503/DP-Questions/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/shruti0503/DP-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shruti0503/DP-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shruti0503/DP-Questions/tree/master/0871-keys-and-rooms) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
