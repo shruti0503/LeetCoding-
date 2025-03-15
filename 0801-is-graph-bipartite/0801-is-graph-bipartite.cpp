@@ -1,38 +1,26 @@
 class Solution {
 public:
-    bool isBipartite(vector<vector<int>>& graph) {
-        // make adj c list
-        int n=graph.size();
-        vector<int> adj[n];
-        for(int i=0;i<graph.size();i++){
-            for(auto j:graph[i]){
-                adj[i].push_back(j);
+    bool dfs(int node, vector<vector<int>>& graph, vector<int>& color, int col) {
+        color[node] = col;  // Color the current node
+
+        for (int neighbor : graph[node]) {
+            if (color[neighbor] == -1) {  // If uncolored, color it with opposite color
+                if (!dfs(neighbor, graph, color, 1 - col)) return false;
+            } 
+            else if (color[neighbor] == color[node]) {  // If same color as current node, not bipartite
+                return false;
             }
         }
+        return true;
+    }
 
-        // for loop to cover all components of the graph
-        vector<int>vis(n,-1);
-        for(int i=0;i<n;i++){
-            if(vis[i]==-1){ // mtlb visited nhi h vo 
-                // check for bipa
-                queue<pair<int,int>>q;
-                q.push({i,0}); // pehel node ko color 0 se color kia 
-                vis[0]=0;
-                while(!q.empty()){
-                    int node= q.front().first;
-                    int color=q.front().second;
-                    q.pop();
-                    for(auto it:adj[node]){
-                        if(vis[it]==-1){
-                            vis[it]= !color;
-                            q.push({it,vis[it]});
-                        }
-                         // neighbour colored with same color that of the current node
-                         else if(vis[it]==color) return false;
-                    }
-                   
+    bool isBipartite(vector<vector<int>>& graph) {
+        int n = graph.size();
+        vector<int> color(n, -1);  // -1 means uncolored
 
-                }
+        for (int i = 0; i < n; i++) {  // Check for each component
+            if (color[i] == -1) {
+                if (!dfs(i, graph, color, 0)) return false;
             }
         }
         return true;
