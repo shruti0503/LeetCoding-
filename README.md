@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/shruti0503/DP-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shruti0503/DP-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shruti0503/DP-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/shruti0503/DP-Questions/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shruti0503/DP-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
