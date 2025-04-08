@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/shruti0503/DP-Questions/tree/master/2465-shifting-letters-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/shruti0503/DP-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shruti0503/DP-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shruti0503/DP-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 | [2213-find-all-people-with-secret](https://github.com/shruti0503/DP-Questions/tree/master/2213-find-all-people-with-secret) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 ## Sliding Window
 |  |
