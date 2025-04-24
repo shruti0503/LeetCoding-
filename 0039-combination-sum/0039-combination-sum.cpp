@@ -1,26 +1,35 @@
 class Solution {
 public:
-    void func(  int ind,int target,vector<int>& arr,  vector<vector<int>>& ans,vector<int>& ds){
-        if(ind==arr.size()){
-            if(target==0){
-                ans.push_back(ds);
-            }
-            return;
-        }
-        //pick element
-        if(arr[ind]<=target){
-            ds.push_back(arr[ind]);
-            func(ind, target-arr[ind], arr, ans, ds);
-            ds.pop_back();
-        }
-        // move forward 
-        func( ind+1, target, arr,ans, ds);
+  void func(vector<int>& cand, int target, int ind, vector<vector<int>>& ans, vector<int> curr){
+
+
+    if(ind==cand.size()){
+          if(target==0){
+            ans.push_back(curr);
+          }
+       return ;
+
     }
+
+  
+
+    //pick eklemt
+    if(cand[ind]<=target){
+        curr.push_back(cand[ind]);
+        // it should not ne ind+1 as we are allowed to use same elemnt
+        func(cand, target-cand[ind], ind, ans, curr);
+        curr.pop_back();
+    }
+
+    //not pick
+     func(cand, target, ind+1, ans, curr);
+
+
+  }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int>ds;
-        func(0, target, candidates, ans, ds);
+        vector<int> curr;
+        func(candidates, target, 0, ans, curr);
         return ans;
-        
     }
 };
