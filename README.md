@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/shruti0503/DP-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shruti0503/DP-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/shruti0503/DP-Questions/tree/master/2465-shifting-letters-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shruti0503/DP-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/shruti0503/DP-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shruti0503/DP-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shruti0503/DP-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2001-jump-game-vii](https://github.com/shruti0503/DP-Questions/tree/master/2001-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shruti0503/DP-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shruti0503/DP-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
 | ------- |
@@ -629,10 +631,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shruti0503/DP-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shruti0503/DP-Questions/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/shruti0503/DP-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Tree
 |  |
 | ------- |
