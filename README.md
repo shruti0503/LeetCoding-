@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shruti0503/DP-Questions/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shruti0503/DP-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shruti0503/DP-Questions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shruti0503/DP-Questions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/shruti0503/DP-Questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shruti0503/DP-Questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shruti0503/DP-Questions/tree/master/0621-task-scheduler) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
 ## Divide and Conquer
 |  |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/shruti0503/DP-Questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/shruti0503/DP-Questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
@@ -733,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
