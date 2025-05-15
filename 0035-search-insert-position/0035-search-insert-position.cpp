@@ -7,6 +7,7 @@ public:
        
         while(start<=end){
             int mid = start+(end-start)/2;
+            cout<<"mid is "<<mid <<endl;
             
             if(nums[mid]==target){
                 ans = mid;
