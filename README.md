@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shruti0503/DP-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shruti0503/DP-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/shruti0503/DP-Questions/tree/master/1894-merge-strings-alternately) |
 | [2001-jump-game-vii](https://github.com/shruti0503/DP-Questions/tree/master/2001-jump-game-vii) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shruti0503/DP-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shruti0503/DP-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shruti0503/DP-Questions/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shruti0503/DP-Questions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shruti0503/DP-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/shruti0503/DP-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shruti0503/DP-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2227-sum-of-subarray-ranges) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shruti0503/DP-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shruti0503/DP-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2001-jump-game-vii](https://github.com/shruti0503/DP-Questions/tree/master/2001-jump-game-vii) |
 | [2562-count-ways-to-build-good-strings](https://github.com/shruti0503/DP-Questions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
