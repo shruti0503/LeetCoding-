@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/shruti0503/DP-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shruti0503/DP-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shruti0503/DP-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shruti0503/DP-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/shruti0503/DP-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shruti0503/DP-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shruti0503/DP-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/shruti0503/DP-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shruti0503/DP-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shruti0503/DP-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shruti0503/DP-Questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shruti0503/DP-Questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shruti0503/DP-Questions/tree/master/0120-triangle) |
@@ -768,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shruti0503/DP-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruti0503/DP-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
