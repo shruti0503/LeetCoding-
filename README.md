@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shruti0503/DP-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shruti0503/DP-Questions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/shruti0503/DP-Questions/tree/master/0386-lexicographical-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/shruti0503/DP-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/shruti0503/DP-Questions/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/shruti0503/DP-Questions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shruti0503/DP-Questions/tree/master/0547-number-of-provinces) |
