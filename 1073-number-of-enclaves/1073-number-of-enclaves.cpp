@@ -20,10 +20,10 @@ public:
 
         // Traverse the boundary and mark connected land cells as visited
         for (int i = 0; i < n; i++) {
-            if (grid[i][0] == 1) { // row boundary 
+            if (grid[i][0] == 1) {
                 dfs(grid, i, 0);
             }
-            if (grid[i][m - 1] == 1) { // col boundary 
+            if (grid[i][m - 1] == 1) {
                 dfs(grid, i, m - 1);
             }
         }
