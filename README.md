@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shruti0503/DP-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/shruti0503/DP-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shruti0503/DP-Questions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shruti0503/DP-Questions/tree/master/0138-copy-list-with-random-pointer) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/shruti0503/DP-Questions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shruti0503/DP-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shruti0503/DP-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shruti0503/DP-Questions/tree/master/0079-word-search) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shruti0503/DP-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shruti0503/DP-Questions/tree/master/0130-surrounded-regions) |
