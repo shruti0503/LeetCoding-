@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shruti0503/DP-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shruti0503/DP-Questions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shruti0503/DP-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/shruti0503/DP-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/shruti0503/DP-Questions/tree/master/0337-house-robber-iii) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shruti0503/DP-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/shruti0503/DP-Questions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shruti0503/DP-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/shruti0503/DP-Questions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
@@ -790,5 +793,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
