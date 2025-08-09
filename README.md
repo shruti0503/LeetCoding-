@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/shruti0503/DP-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shruti0503/DP-Questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/shruti0503/DP-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shruti0503/DP-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/shruti0503/DP-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
