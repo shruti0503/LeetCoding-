@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shruti0503/DP-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
 | [3227-find-missing-and-repeated-values](https://github.com/shruti0503/DP-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shruti0503/DP-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shruti0503/DP-Questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 | [0960-minimize-malware-spread](https://github.com/shruti0503/DP-Questions/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shruti0503/DP-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/shruti0503/DP-Questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/shruti0503/DP-Questions/tree/master/1503-reducing-dishes) |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shruti0503/DP-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shruti0503/DP-Questions/tree/master/0621-task-scheduler) |
+| [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shruti0503/DP-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -808,4 +812,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
