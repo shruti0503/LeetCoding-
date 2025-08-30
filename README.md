@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruti0503/DP-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shruti0503/DP-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/shruti0503/DP-Questions/tree/master/0127-word-ladder) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shruti0503/DP-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shruti0503/DP-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shruti0503/DP-Questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shruti0503/DP-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
