@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shruti0503/DP-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shruti0503/DP-Questions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shruti0503/DP-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shruti0503/DP-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/shruti0503/DP-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shruti0503/DP-Questions/tree/master/0234-palindrome-linked-list) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shruti0503/DP-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shruti0503/DP-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shruti0503/DP-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0110-balanced-binary-tree) |
