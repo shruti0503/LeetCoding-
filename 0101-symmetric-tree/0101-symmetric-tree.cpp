@@ -15,11 +15,10 @@ public:
         if(!node1 && !node2) return true;
         if(!node1 || !node2) return false;
         if(node1->val!=node2->val) return false;
-        return check(node1->left, node2->right) && check(node1->right, node1->right);
+        return check(node1->left, node2->right) && check(node1->right, node1->left);
     }
     bool isSymmetric(TreeNode* root) {
-        bool lc=check(root->left, root->right);
-        return lc;
-        
+        if(root==NULL) return true;
+        return check(root->left, root->right);    
     }
 };
