@@ -37,7 +37,7 @@ public:
             int min=q.front().second-1; // min= 0
             int first , last; 
             for(int i=0;i<size;i++){
-                long long curr=q.front().second-min; // 0-(-0) = 0
+                long long curr=q.front().second; // 0-(-0) = 0
                 TreeNode* node=q.front().first; // root node -> 1
 
                 q.pop();
