@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/shruti0503/DP-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shruti0503/DP-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shruti0503/DP-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/shruti0503/DP-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shruti0503/DP-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shruti0503/DP-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/shruti0503/DP-Questions/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shruti0503/DP-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/shruti0503/DP-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shruti0503/DP-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shruti0503/DP-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
