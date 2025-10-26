@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/shruti0503/DP-Questions/tree/master/1493-frog-position-after-t-seconds) |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shruti0503/DP-Questions/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shruti0503/DP-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/shruti0503/DP-Questions/tree/master/2384-root-equals-sum-of-children) |
@@ -863,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shruti0503/DP-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shruti0503/DP-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
