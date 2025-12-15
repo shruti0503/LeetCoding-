@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/shruti0503/DP-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shruti0503/DP-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shruti0503/DP-Questions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/shruti0503/DP-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shruti0503/DP-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shruti0503/DP-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0070-climbing-stairs) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/shruti0503/DP-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shruti0503/DP-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shruti0503/DP-Questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/shruti0503/DP-Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shruti0503/DP-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shruti0503/DP-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shruti0503/DP-Questions/tree/master/0055-jump-game) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/shruti0503/DP-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shruti0503/DP-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shruti0503/DP-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/shruti0503/DP-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shruti0503/DP-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shruti0503/DP-Questions/tree/master/0073-set-matrix-zeroes) |
