@@ -1,58 +1,30 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-//         if(nums.size()==0){
-//             return 0;
-//             }
-//         sort(nums.begin(),nums.end());
-//         int currlen=1;
-//         int maxlen=1;
-//         for(int i=0;i<nums.size();i++){
-//             if(nums[i+1]!=nums[i-1]+1){
-//                 if(nums[i]==nums[i-1]+1){
-//                 currlen++;
-//                 // maxlen=max(currlen,maxlen);
-//                 }
+        if (nums.empty()) return 0;
 
-//             }
-//             else{ 
-                
-//                 maxlen=max(currlen,maxlen);
-//                 currlen=1;
-                
+        sort(nums.begin(), nums.end());
 
-//             }
-//         }
-//         return max(maxlen,currlen);
-        
-        int ans=1;
-        if(nums.size()==0)
-            return 0;
-        
-        sort(nums.begin(),nums.end());
-        int curr;
-        int j=1;
-        curr=1;
-        while(j<nums.size())
-        {
-            if(nums[j]-nums[j-1]==0)
-            {
-                j++;
+        int longestStreak = 1;
+        int currentStreak = 1;
+
+        for (int i = 1; i < nums.size(); i++) {
+            // Skip duplicates
+            if (nums[i] == nums[i - 1]) {
                 continue;
             }
-            else if(nums[j]-nums[j-1]==1)
-            {
-                
-                curr++;
-                ans=max(ans,curr);
+            // Consecutive number
+            else if (nums[i] == nums[i - 1] + 1) {
+                currentStreak++;
             }
-            else
-            {
-                curr=1;
+            // Break in sequence
+            else {
+                currentStreak = 1;
             }
-            j++;
+
+            longestStreak = max(longestStreak, currentStreak);
         }
-        
-        return ans;
+
+        return longestStreak;
     }
 };
