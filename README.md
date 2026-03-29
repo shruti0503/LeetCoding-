@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/shruti0503/DP-Questions/tree/master/2465-shifting-letters-ii) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shruti0503/DP-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
