@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shruti0503/DP-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shruti0503/DP-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shruti0503/DP-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shruti0503/DP-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shruti0503/DP-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shruti0503/DP-Questions/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shruti0503/DP-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/shruti0503/DP-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-find-all-people-with-secret](https://github.com/shruti0503/DP-Questions/tree/master/2213-find-all-people-with-secret) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shruti0503/DP-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shruti0503/DP-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shruti0503/DP-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shruti0503/DP-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2892-check-if-array-is-good) |
 | [3531-count-covered-buildings](https://github.com/shruti0503/DP-Questions/tree/master/3531-count-covered-buildings) |
