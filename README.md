@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/shruti0503/DP-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shruti0503/DP-Questions/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/shruti0503/DP-Questions/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/shruti0503/DP-Questions/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/shruti0503/DP-Questions/tree/master/0868-push-dominoes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/shruti0503/DP-Questions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shruti0503/DP-Questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/shruti0503/DP-Questions/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1518-water-bottles) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
