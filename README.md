@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/shruti0503/DP-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shruti0503/DP-Questions/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shruti0503/DP-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/shruti0503/DP-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shruti0503/DP-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shruti0503/DP-Questions/tree/master/0787-sliding-puzzle) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shruti0503/DP-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shruti0503/DP-Questions/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/shruti0503/DP-Questions/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shruti0503/DP-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shruti0503/DP-Questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shruti0503/DP-Questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/shruti0503/DP-Questions/tree/master/0907-koko-eating-bananas) |
