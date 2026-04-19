@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/shruti0503/DP-Questions/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1518-water-bottles) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shruti0503/DP-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shruti0503/DP-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shruti0503/DP-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1518-water-bottles) |
 | [1642-water-bottles](https://github.com/shruti0503/DP-Questions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/shruti0503/DP-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/shruti0503/DP-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
