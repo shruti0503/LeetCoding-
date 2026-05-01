@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shruti0503/DP-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shruti0503/DP-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shruti0503/DP-Questions/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/shruti0503/DP-Questions/tree/master/0396-rotate-function) |
 | [0900-reordered-power-of-2](https://github.com/shruti0503/DP-Questions/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shruti0503/DP-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shruti0503/DP-Questions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shruti0503/DP-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/shruti0503/DP-Questions/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/shruti0503/DP-Questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shruti0503/DP-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shruti0503/DP-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shruti0503/DP-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shruti0503/DP-Questions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shruti0503/DP-Questions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/shruti0503/DP-Questions/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/shruti0503/DP-Questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shruti0503/DP-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shruti0503/DP-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shruti0503/DP-Questions/tree/master/0435-non-overlapping-intervals) |
