@@ -1,29 +1,20 @@
 class Solution {
 public:
-    int func(vector<int>& dp , int n){
-        if(n==1 or n==0) return 1;
-        if(dp[n]!=0) return dp[n];
-        dp[n]=func(dp, n-1)+func(dp, n-2);
-        return dp[n];
-    }
-    int tab(int n){
-        vector<int>dp(n+1,0);
-        dp[0]=1;
-        dp[1]=1;
-        for(int i=2;i<=n;i++){
-            if(i==1){
-                dp[i]=dp[i-1];
-            }
-            else{
-                dp[i]=dp[i-1]+dp[i-2];
-            }
+    int func(int n, int step, vector<int>& dp){
+        // base case that i have reached the end 
+        if(step==n){
+            return 1;
         }
-        return dp[n];
+        if (step > n) return 0;
+        if(dp[step]!=-1) return dp[step];
+        int two=func(n, step+2,dp);
+        // take one step
+        int one=func(n, step+1,dp);
+        return dp[step]=one+two;
     }
     int climbStairs(int n) {
-        if(n==1) return 1;
-        vector<int>dp(n+1, 0);
-        return tab(n);
-        //return dp[n];
+        vector<int> dp(n+1, -1);
+        return func(n, 0, dp);
+        
     }
 };
