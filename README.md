@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shruti0503/DP-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/shruti0503/DP-Questions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/shruti0503/DP-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/shruti0503/DP-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shruti0503/DP-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/shruti0503/DP-Questions/tree/master/2784-check-if-array-is-good) |
@@ -927,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/shruti0503/DP-Questions/tree/master/2001-jump-game-vii) |
 | [2358-number-of-ways-to-split-array](https://github.com/shruti0503/DP-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/shruti0503/DP-Questions/tree/master/2465-shifting-letters-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/shruti0503/DP-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shruti0503/DP-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
